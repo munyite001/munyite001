@@ -3,16 +3,19 @@
 Passionate about Software development from Nairobi, Kenya.
 
 ### Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+- Bootstrap: ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+- C: ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+- CSS3: ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- Git: ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+- HTML5: ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- JavaScript: ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- Linux: ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+- Python: ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- Flask: ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
+- Django: ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
+- Nginx: ![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+- Docker: ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+
 
 ### About Me
 I'm Emmanuel, a passionate Software Developer based in Nairobi, Kenya. With a strong focus on creating intuitive and user-friendly web experiences, I enjoy turning ideas into reality through code.

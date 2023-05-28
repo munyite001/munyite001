@@ -32,7 +32,7 @@ Passionate about Software development from Nairobi, Kenya.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="margin-top: 40px;"><br>
 
 - **Django**: <br> 
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png)" alt="Django" width="40" height="40" style="margin-top: 40px;"><br>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="Django" width="40" height="40" style="margin-top: 40px;"><br>
 
 - **Nginx**: <br> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin-top: 40px;"><br>

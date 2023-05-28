@@ -3,18 +3,19 @@
 Passionate about Software development from Nairobi, Kenya.
 
 ### Skills
-- Bootstrap: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-top: 10px" />
-- C: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-top: 10px" />
-- CSS3: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-top: 10px" />
-- Git: <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-top: 10px" />
-- HTML5: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-top: 10px" />
-- JavaScript: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-top: 10px" />
-- Linux: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-top: 10px" />
-- Python: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-top: 10px" />
-- Flask: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="margin-top: 10px" />
-- Django: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" style="margin-top: 10px" />
-- Nginx: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin-top: 10px" />
-- Docker: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-top: 10px" />
+- Bootstrap: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-top: 40px" />
+- C: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-top: 40px" />
+- CSS3: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-top: 40px" />
+- Git: <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-top: 40px" />
+- HTML5: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-top: 40px" />
+- JavaScript: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-top: 40px" />
+- Linux: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-top: 40px" />
+- Python: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-top: 40px" />
+- Flask: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="margin-top: 40px" />
+- Django: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" style="margin-top: 40px" />
+- Nginx: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin-top: 40px" />
+- Docker: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-top: 40px" />
+
 
 
 
@@ -22,11 +23,12 @@ Passionate about Software development from Nairobi, Kenya.
 ### About Me
 I'm Emmanuel, a passionate Software Developer based in Nairobi, Kenya. With a strong focus on creating intuitive and user-friendly web experiences, I enjoy turning ideas into reality through code.
 
-- 🌐 Skilled in HTML5, CSS3, and JavaScript, with a keen eye for design and aesthetics.
-- ⚡️ Currently expanding my skill set with React.js to build dynamic and interactive web applications.
-- 🔭 Working on personal projects using Vanilla JavaScript to strengthen my foundational knowledge.
-- 🎓 Graduated with a degree in Computer Science, gaining a solid understanding of algorithms and problem-solving.
-- 👯 Seeking opportunities to collaborate on exciting Python projects that have a positive impact.
+- 🌐 Skilled in web development technologies, with a keen eye for design and aesthetics.
+- ⚡️ Currently expanding my skill set with React.js and django to build dynamic and interactive web applications.
+- 🔭 Working on personal projects to solidify my learning.
+- 🎓 Graduating with a diploma in IT(December), gaining a solid understanding of algorithms and problem-solving.
+- 🎓 Graduating from ALX software Engineering bootcamp this june.
+- 👯 Seeking opportunities to collaborate on exciting projects that have a positive impact.
 - 💬 Let's discuss anything tech-related! I'm always open to sharing knowledge and learning from others.
 - 📫 Reach me at emunyite@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/munyite).
 

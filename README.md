@@ -2,44 +2,6 @@
 ## FullStack Web Developer | Software Developer
 Passionate about Software development from Nairobi, Kenya.
 
-### Skills
-
-- **Bootstrap**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **C**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **CSS3**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Git**: <br> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **HTML5**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **JavaScript**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Linux**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Python**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Flask**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Django**: <br> 
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="Django" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Nginx**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin-top: 40px;"><br>
-
-- **Docker**: <br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-top: 40px;"><br>
-
 
 ### About Me
 I'm Emmanuel, a passionate Software Developer based in Nairobi, Kenya. With a strong focus on creating intuitive and user-friendly web experiences, I enjoy turning ideas into reality through code.

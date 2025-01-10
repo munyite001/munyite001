@@ -1,41 +1,77 @@
-# Hi there, I'm Emmanuel! 👋  
-## FullStack Web Developer | Software Engineer  
-Creating intuitive, efficient, and impactful digital solutions from Nairobi, Kenya.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Emmanuel+Munyite+%F0%9F%91%8B;Full-Stack+Developer+and+Software+Engineer;Building+Innovative+Solutions+from+Nairobi%2C+Kenya" alt="Typing SVG" />
+</div>
 
-### About Me  
-I'm a dedicated Software Developer passionate about building seamless and scalable applications. With strong experience across a range of technologies, I focus on solving real-world problems through code. I enjoy working on projects that challenge me to learn, adapt, and improve while collaborating with others to create meaningful impact.
+<h2 align="center">🚀 Building Tomorrow's Web Today</h2>
 
-- 💻 **Tech Stack:**  
-  Node.js | Express | React | MongoDB | PostgreSQL | Python | Scrapy | Docker | JavaScript  
-- 🔧 **Key Skills:**  
-  Full-Stack Web Development | RESTful APIs | Database Design | Web Scraping | Problem-Solving  
-- 🌱 **Always Improving:** Constantly refining my skills to stay at the cutting edge of web development and engineering.
-- 💼 **Current Focus:** Building web applications and developing tools using Node/Express, React, PostgreSQL, MongoDB, and web scraping with Python's Scrapy.
-- 🚀 **Latest Projects:** Exploring and developing advanced scraping tools, working on scalable web apps, and building interactive dashboards.  
-- 🤝 **Collaborations:** Open to working on impactful projects that push the boundaries of technology.
-- 🎓 **Education:** Graduating with a diploma in IT (December), and a graduate of ALX Software Engineering bootcamp.
+### 👨‍💻 About Me
 
-### Let's Collaborate!  
-I'm always looking for exciting new challenges. Whether you're building a cutting-edge project or solving unique problems, let's connect and create something amazing together.
+I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. With a keen eye for detail and a love for clean code, I transform complex problems into elegant solutions. Currently diving deep into advanced web development working as a Fullstack Mobile/Web Developer @ Ndai Africa.
 
-- 📧 Reach out: emunyite@gmail.com  
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/munyite)  
+<div align="center">
+  
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munyite)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emunyite)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/munyite001)
+  
+</div>
 
----
+### 🛠️ Tech Arsenal
 
-### GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=radical)
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+</div>
 
-### GitHub Streak Stats  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munyite001&theme=radical)
+### 🎯 Current Focus
 
-### Additional Metrics  
-![GitHub metrics](https://metrics.lecoq.io/munyite001)
+- 🌟 Developing scalable web applications using the MERN stack
+- 🔍 Crafting advanced web scraping solutions with Python & Scrapy
+- 📊 Building interactive dashboards and data visualization tools
+- 🚀 Exploring microservices architecture with Docker
+- 📚 Building multi-platfrom Mobile Apps using React Native
 
----
+### 💼 Featured Projects
 
-### Connect with Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/munyite001)  
-[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev-dot-to)](https://dev.to/munyite001)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/munyite)  
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/emunyite)
+<div align="center">
+  
+  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=YOUR-BEST-REPO&theme=tokyonight)](https://github.com/munyite001/YOUR-BEST-REPO)
+  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=ANOTHER-GREAT-REPO&theme=tokyonight)](https://github.com/munyite001/ANOTHER-GREAT-REPO)
+  
+</div>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=munyite001&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munyite001&layout=compact&theme=tokyonight)
+  
+</div>
+
+### 🤝 Let's Connect!
+
+- 💼 Open to collaborative projects and opportunities
+- 📧 Reach me at: emunyite@gmail.com
+- 💻 Portfolio: [your-portfolio-url]
+- 🌐 Based in Nairobi, Kenya 🇰🇪
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=munyite001&color=blueviolet)
+  
+  <img src="https://github.com/munyite001/munyite001/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  
+</div>

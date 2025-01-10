@@ -11,7 +11,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 <div align="center">
   
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munyite)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emunyite)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emunyite)
   [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/munyite001)
   
@@ -55,7 +55,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight)
   
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=munyite001&theme=tokyonight)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=munyite001&theme=tokyonight)](https://git.io/streak-stats)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munyite001&layout=compact&theme=tokyonight)
   
@@ -69,9 +69,5 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 - 🌐 Based in Nairobi, Kenya 🇰🇪
 
 <div align="center">
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=munyite001&color=blueviolet)
-  
-  <img src="https://github.com/munyite001/munyite001/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  
 </div>

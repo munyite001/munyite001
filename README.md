@@ -44,8 +44,8 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <div align="center">
   
-  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=YOUR-BEST-REPO&theme=tokyonight)](https://github.com/munyite001/YOUR-BEST-REPO)
-  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=ANOTHER-GREAT-REPO&theme=tokyonight)](https://github.com/munyite001/ANOTHER-GREAT-REPO)
+  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=https://github.com/munyite001/VROOM-V2-NODE.git&theme=tokyonight)](https://github.com/munyite001/VROOM-V2-NODE.git)
+  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM.git&theme=tokyonight)](https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM.git)
   
 </div>
 

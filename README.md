@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. With a keen eye for detail and a love for clean code, I transform complex problems into elegant solutions. Currently diving deep into advanced web development working as a Fullstack Mobile/Web Developer @ Ndai Africa.
+I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. With a keen eye for detail and a love for clean code, I transform complex problems into elegant solutions. Currently diving deep into advanced web development and multiplatform mobile development working as a Fullstack Mobile/Web Developer @ Ndai Africa.
 
 <div align="center">
   
@@ -65,7 +65,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 - 💼 Open to collaborative projects and opportunities
 - 📧 Reach me at: emunyite@gmail.com
-- 💻 Portfolio: [your-portfolio-url]
+- 💻 Portfolio: []
 - 🌐 Based in Nairobi, Kenya 🇰🇪
 
 <div align="center">

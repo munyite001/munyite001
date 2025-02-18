@@ -56,7 +56,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=munyite001&theme=react" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=munyite001&theme=react" alt="GitHub Streak" style="margin: 3rem 0"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munyite001&layout=compact&theme=tokyonight)
 

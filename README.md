@@ -44,9 +44,15 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <div align="start">
 
-[![VROOM V2 Node](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=VROOM-V2-NODE&theme=tokyonight)](https://github.com/munyite001/VROOM-V2-NODE)
+<p align="center">
+  <a href="https://github.com/munyite001/VROOM-V2-NODE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=VROOM-V2-NODE&theme=tokyonight" alt="VROOM V2 Node" style="width: 80%">
+  </a>
+  <a href="https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM&theme=tokyonight" alt="Overseas Employee Management" style="width: 80%; padding: 1rem;">
+  </a>
+</p>
 
-[![Overseas Employee Management](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM&theme=tokyonight)](https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM)
 
 </div>
 
@@ -54,11 +60,13 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 80%">
+
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=munyite001&theme=react" alt="GitHub Streak" style="margin: 3rem 0"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munyite001&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyite001&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 80%">
+
 
 </div>
 

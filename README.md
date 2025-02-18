@@ -42,12 +42,15 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 ### 💼 Featured Projects
 
-<div align="center">
-  
-  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=https://github.com/munyite001/VROOM-V2-NODE.git&theme=tokyonight)](https://github.com/munyite001/VROOM-V2-NODE.git)
-  [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM.git&theme=tokyonight)](https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM.git)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/munyite001/VROOM-V2-NODE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=VROOM-V2-NODE&theme=tokyonight" alt="VROOM V2 Node" style="width: 100vw">
+  </a>
+  <a href="https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM&theme=tokyonight" alt="Overseas Employee Management" style="width: 100vw">
+  </a>
+</p>
+
 
 ### 📊 GitHub Analytics
 
@@ -55,7 +58,10 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=munyite001&theme=tokyonight)](https://git.io/streak-stats)
+  <div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=munyite001&theme=react" style="width: 100vw; margin: 1rem 1rem 3rem"/>
+</div>
+
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munyite001&layout=compact&theme=tokyonight)
   
@@ -68,6 +74,5 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 - 💻 Portfolio: []
 - 🌐 Based in Nairobi, Kenya 🇰🇪
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=munyite001&color=blueviolet)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=munyite001&color=blueviolet)
+

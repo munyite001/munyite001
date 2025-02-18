@@ -42,7 +42,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 ## 💼 Featured Projects
 
-<div align="center">
+<div align="start">
 
 [![VROOM V2 Node](https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=VROOM-V2-NODE&theme=tokyonight)](https://github.com/munyite001/VROOM-V2-NODE)
 

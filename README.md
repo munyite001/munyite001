@@ -47,20 +47,6 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <br/>
 
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/munyite001/VROOM-V2-NODE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=VROOM-V2-NODE&theme=tokyonight" alt="VROOM V2 Node" width="400">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM&theme=tokyonight" alt="Overseas Employee Management" width="400">
-  </a>
-</div>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
